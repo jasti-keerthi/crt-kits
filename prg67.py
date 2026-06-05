@@ -1,0 +1,10 @@
+list=["python","java","c++","javascript"]
+print("The original list is : ",list)
+list.insert(0,"SQL")
+print(list)
+list.insert(2,"C program")
+print(list)
+list.insert(3,"javascript")
+print(list)
+list.insert(1,"Ruby")
+print(list)

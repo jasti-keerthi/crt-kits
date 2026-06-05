@@ -1,0 +1,5 @@
+def add(a,b):
+    print(f"ADdition of {a} and {b} is {a+b}")
+add(5,3)
+add(10,20) 
+
