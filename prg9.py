@@ -1,0 +1,6 @@
+print(11<10)
+print(11>10)
+print(12<=11)
+print(12>=11)
+print(11==11)
+print(10!=10)
