@@ -1,0 +1,10 @@
+str="StRaNgEr ThInGs"
+print(str.capitalize())
+print(str.title())
+print(str.casefold())
+print(str.count('G'))
+print(str.endswith('S'))
+print(str.startswith('S'))
+print(str.endswith('s'))
+print(str.startswith('S'))
+print(str.format_map(str))
