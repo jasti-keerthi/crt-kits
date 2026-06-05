@@ -7,5 +7,3 @@ print(str.encode())
 print(str.endswith('G'))
 print(str.expandtabs(2))
 print(str.find('s'))
-dict={101:'smart'}
-print(str.format_map(dict))
